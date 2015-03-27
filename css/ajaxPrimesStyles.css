@@ -1,0 +1,48 @@
+/*  Purpose    : Style sheet 
+    Created on : Mar 24, 2015
+    Author     : Greg
+*/
+
+* 
+{
+    padding:0px;
+    margin:0px;
+}
+
+body
+{
+    background-color: #F7F7F7;
+    text-align: center;
+    font-family: Impact;
+}
+
+h2
+{
+    color: #454545;
+    margin: 20px 0;
+}
+
+input
+{
+    margin: 20px 0;
+    margin-top: 0px;
+    width: 130px;
+    height: 30px;
+    font-family: Impact;
+    color: #DDD;
+    background-color: #656565;
+    border: 2px solid black;
+}
+
+#primesTable
+{
+    background-image: url(images/primesbg.png);
+    margin: auto;
+    text-align: right;
+    padding: 10px 10px;
+}
+
+.primesCell
+{   
+    padding: 4px 4px;
+}
