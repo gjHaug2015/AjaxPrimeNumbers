@@ -57,8 +57,4 @@ function createPrimesTable($primes) {
         }
     }
     body.appendChild(tbl);
-    
-    for(var x = 0; x < $primes.length; x++) {
-        
-    }
 }
